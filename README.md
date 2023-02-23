@@ -12,8 +12,8 @@ I chose a coding boot camp because I didn't want to be a bystander forever. As a
 
 An app to capture moments from BootCamp. Creating, editing & deleting content is essential. The search and a pre-sorted selection make it easy for the user to relive specific moments.
 </p>
-<ul align="center"> please have a look at my recent repositories:
-  <li align="center">My capstone project are the Beaver memories</li>
+<ul> please have a look at my latest repository:
+  <li>capstone project - Beaver memories</li>
   </ul>
   
-The other repositories are not relevant and do not represent my skill level, but they show my progress over the time.
+The remaining repositories are not relevant and do not represent my current skill level, but they show my progress over the time.
