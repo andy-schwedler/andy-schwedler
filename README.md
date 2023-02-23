@@ -10,7 +10,7 @@ As a Sales & Project Manager, with professional experience in the IT world, I wo
 
 <p align="center"> I chose a coding boot camp because I didn't want to be a bystander forever. As a person, I'm interested in the big picture. To do this, you also have to understand the task of each pixel. I was able to demonstrate my diligence and commitment during this time in order to achieve my goal and become a Frontend Developer</p>
 
-<p align="center"> please have a look at my capstone-project repository:  </p>
+<p align="center"> Take a look at my capstone-project repository:  </p>
   <h4 align="center">Beaver memories</h4>
   
 <p align="center"><i>The remaining repositories are not relevant and do not represent my current skill level, but they represent my progress over the time.</i></p>
