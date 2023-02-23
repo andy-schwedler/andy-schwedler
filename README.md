@@ -13,4 +13,4 @@ As a Sales & Project Manager, with professional experience in the IT world, I wo
 <p align="center"> please have a look at my capstone-project repository:  </p>
   <h4 align="center">Beaver memories</h4>
   
-<p align="center"> <strong>The remaining repositories are not relevant and do not represent my current skill level, but they show my progress over the time.</strong></p>
+<p align="center"><i>The remaining repositories are not relevant and do not represent my current skill level, but they represent my progress over the time.</i></p>
