@@ -1,5 +1,5 @@
 # 👨🏽‍💻 About Me:
-👋 Hi, Servus, Howdy, I’m Andy<br>🔭 I’m interested in web development and cool tech stuff<br>🌱 I’m currently learning php
+👋 Hi, Servus, Howdy, I’m Andy<br>🔭 I’m interested in web development and cool tech ideas<br>🌱 I’m currently learning php with Drupal
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andyschwedler) 
