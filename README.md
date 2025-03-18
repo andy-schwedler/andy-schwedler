@@ -1,7 +1,7 @@
 # 👨🏽‍💻 About Me:
 👋 Hi, Servus, I’m Andy
 <br>
-🔭 I’m interested in web development and cool tech ideas
+🔭 I’m interested in web development
 <br>
 🌱 I’m currently learning php with Drupal
 
